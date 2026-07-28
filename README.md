@@ -9,15 +9,15 @@
 </p>
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/kaushikisahu/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/kaushikisahu/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kaushikiofficial44@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -93,11 +93,11 @@ A complete MERN-based restaurant ordering platform.
 `React` • `Node.js` • `Express.js` • `MongoDB`
 
 <p>
-<a href="YOUR_PIZZERIA_DEMO">
+<a href="https://pizzeriahh.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_PIZZERIA_GITHUB">
+<a href="[YOUR_PIZZERIA_GITHUB](https://github.com/Kaushiki44/Pizzeria)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -120,11 +120,11 @@ A collaborative coding platform with AI-powered assistance.
 `React` • `Node.js` • `Express.js` • `Socket.IO`
 
 <p>
-<a href="YOUR_CODESYNC_DEMO">
+<a href="https://code-sync-ai-jet.vercel.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_CODESYNC_GITHUB">
+<a href="https://github.com/Kaushiki44/CodeSync-AI">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -135,7 +135,7 @@ A collaborative coding platform with AI-powered assistance.
 
 <p align="center">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/kaushikisahu/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -155,11 +155,11 @@ A collaborative coding platform with AI-powered assistance.
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kaushikiofficial44@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/kaushikisahu">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
