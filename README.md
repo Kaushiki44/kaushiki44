@@ -29,7 +29,7 @@
 
 # 👩‍💻 About Me
 
-🎓 Final-year Information Technology student passionate about software engineering.
+🎓 Final-year Information Technology student from JSSATE Noida, passionate about software engineering.
 
 💡 I enjoy building full-stack applications, designing backend systems, and solving algorithmic problems.
 
@@ -65,11 +65,11 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/kaushikisahu?theme=dark&font=Nunito&ext=heatmap"/>
 
 </p>
 
-- 💻 Solving Data Structures & Algorithms in **C++**
+- 💻 Data Structures & Algorithms in **C++**
 - 📚 Regular LeetCode practice
 - 🚀 Continuously improving problem-solving skills
 
@@ -79,7 +79,7 @@
 
 ## 🍕 Pizzeria
 
-A complete MERN-based restaurant ordering platform.
+A complete MERN-based Pizza ordering platform.
 
 ### Highlights
 
@@ -90,7 +90,7 @@ A complete MERN-based restaurant ordering platform.
 
 **Tech Stack**
 
-`React` • `Node.js` • `Express.js` • `MongoDB`
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Redux`
 
 <p>
 <a href="https://pizzeriahh.netlify.app/">
@@ -106,18 +106,18 @@ A complete MERN-based restaurant ordering platform.
 
 ## 🤖 CodeSync AI
 
-A collaborative coding platform with AI-powered assistance.
+ A real-time multi-user AI chat application with In-Browser Code Execution.
 
 ### Highlights
 
-- 🤝 Real-time Collaboration
+- 🤝 Multi-user Chat Application
 - ⚡ Socket.IO Integration
 - 🤖 AI Chat
-- 👨‍💻 Multi-user Workspace
+- 👨‍💻 In-Browser Code Execution
 
 **Tech Stack**
 
-`React` • `Node.js` • `Express.js` • `Socket.IO`
+`React` • `Node.js` • `Express.js` • `Socket.IO` • `WebContainers` • `MongoDB` • `OpenRouter GPT API`
 
 <p>
 <a href="https://code-sync-ai-jet.vercel.app/">
@@ -139,35 +139,12 @@ A collaborative coding platform with AI-powered assistance.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
 
 </p>
 
 ---
 
-# 📫 Let's Connect
 
-<p align="center">
-
-<a href="mailto:kaushikiofficial44@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kaushikisahu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
