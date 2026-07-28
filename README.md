@@ -4,8 +4,8 @@
 
 ### Full-Stack Developer • MERN Stack • Problem Solver
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications;Full-Stack+Developer;DSA+Enthusiast;Always+Learning+New+Technologies"/>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;Full-Stack+Developer;DSA+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 <p>
@@ -20,26 +20,22 @@
 <a href="mailto:kaushikiofficial44@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Final-year Information Technology student from JSSATE Noida, passionate about software engineering.
-
-💡 I enjoy building full-stack applications, designing backend systems, and solving algorithmic problems.
-
-🚀 Currently exploring scalable backend development using **Node.js** and **Python** while strengthening my Data Structures & Algorithms skills.
-
-🌱 I love turning ideas into practical, user-focused software.
+- 🎓 Final-year IT student at **JSSATE Noida**
+- 💻 Passionate about Full-Stack Development & Software Engineering
+- 🚀 Building scalable applications with **Node.js** and **Python**
+- 🧩 Regularly solving DSA problems on LeetCode
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -50,7 +46,7 @@
 ### Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,tailwind"/>
 </p>
 
 ### Tools
@@ -61,63 +57,39 @@
 
 ---
 
-# 🧩 Problem Solving
+## 🧩 Problem Solving
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/kaushikisahu?theme=dark&font=Nunito&ext=heatmap"/>
-
+<img src="https://leetcard.jacoblin.cool/kaushikisahu?theme=dark&font=Nunito"/>
 </p>
-
-- 💻 Data Structures & Algorithms in **C++**
-- 📚 Regular LeetCode practice
-- 🚀 Continuously improving problem-solving skills
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🍕 Pizzeria
+### 🍕 Pizzeria
 
-A complete MERN-based Pizza ordering platform.
+> MERN-based pizza ordering platform with authentication, cart management, and order tracking.
 
-### Highlights
-
-- 🔐 Secure Authentication
-- 🛒 Shopping Cart
-- 📦 Order Management
-- 📱 Responsive Design
-
-**Tech Stack**
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Redux`
+**Tech:** React • Redux • Node.js • Express • MongoDB
 
 <p>
 <a href="https://pizzeriahh.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="[YOUR_PIZZERIA_GITHUB](https://github.com/Kaushiki44/Pizzeria)">
+<a href="https://github.com/Kaushiki44/Pizzeria">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-## 🤖 CodeSync AI
+### 🤖 CodeSync AI
 
- A real-time multi-user AI chat application with In-Browser Code Execution.
+> Real-time collaborative AI coding platform with in-browser code execution.
 
-### Highlights
-
-- 🤝 Multi-user Chat Application
-- ⚡ Socket.IO Integration
-- 🤖 AI Chat
-- 👨‍💻 In-Browser Code Execution
-
-**Tech Stack**
-
-`React` • `Node.js` • `Express.js` • `Socket.IO` • `WebContainers` • `MongoDB` • `OpenRouter GPT API`
+**Tech:** React • Node.js • Express • Socket.IO • WebContainers • MongoDB • OpenRouter API
 
 <p>
 <a href="https://code-sync-ai-jet.vercel.app/">
@@ -131,7 +103,7 @@ A complete MERN-based Pizza ordering platform.
 
 ---
 
-# 📈 Coding Profiles
+## 🌐 Coding Profiles
 
 <p align="center">
 
@@ -139,13 +111,12 @@ A complete MERN-based Pizza ordering platform.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-
 </p>
 
 ---
 
+<div align="center">
 
-
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
 </div>
