@@ -148,6 +148,4 @@ A complete MERN-based Pizza ordering platform.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
-
 </div>
